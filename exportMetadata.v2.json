@@ -1,0 +1,1753 @@
+{
+  "name" : "large_proj",
+  "sourceOrgId" : "8DvXzN3F1pqbP21t8NJbeR",
+  "sourceOrgName" : "Azr_Devops_User93hSahXuqPMf0CX6Ib1KAz",
+  "exportedObjects" : [ {
+    "objectGuid" : "2z4bOif006afKxUYuV00Yy",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 159",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022Y"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "a92YujSSSWxk2la7phs0Wa",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 136",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023A"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "5qzsmkupAIVjN5AZtWYHYW",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 127",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024M"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "7V2jMqGL9eXk6gGVy8hzyK",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 167",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024H"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "hu8CObzojynicFfMBNgQoL",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 182",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000239"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "3T2l3F4Zo7rfTHrGHJkLKg",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 109",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023T"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "5jREDH6Prsic6qqr0lLHCt",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 160",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000242"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "1cs5csvFpTigDtzJhEzaKj",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 184",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000237"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "6xK8mVhxWCAcMads8jCiUZ",
+    "objectName" : "SK_Con_FF_Auto",
+    "objectType" : "Connection",
+    "path" : "/SYS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT20B000000000007"
+      },
+      "objectRefs" : [ "lwL738Rp54dhiSDc12ObGF" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Flat File connection for CMD testcases Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "objectGuid" : "kjju4DUaH2ZfT0o2qNq967",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 10",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024N"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "hGxHKbIAUSjet7hWbBhha2",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 180",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023Q"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "7vsEe26njlcjdn4h98aEA2",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 17",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023M"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "avu7rUi6fsSiHclJVlt64D",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 131",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000247"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "aaw4MSilLrSd6KqTLmIAcr",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 170",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023D"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "lwL738Rp54dhiSDc12ObGF",
+    "objectName" : "USW1MJ02VZ0G",
+    "objectType" : "AgentGroup",
+    "path" : "/SYS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT225000000000005"
+      },
+      "objectRefs" : [ ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  }, {
+    "objectGuid" : "czGvEtleYYginIfhHABDaq",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 112",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000246"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "5otf3rpfwrllSbBZb0zeiO",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 1001",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023S"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "8Gy0N4LpKebeBigfkUFssS",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 179",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024G"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "6jugs0oT7qJfimRUNlrV0z",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 148",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024P"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0uOT0DinvSlc4TzKRtBpsZ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 161",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000235"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "iikv2w9AOAab8e4ovZpnyo",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 12",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022U"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "73yUUbpk3w6iAOs835PY41",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 101",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023V"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0KO0HqEWWKjlHNYKHOOjkb",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 11",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024E"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "cHWsz8HoN0JfahwGDYtiwy",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 146",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022X"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "8iogN9SPVhjeIgwCMBFQQf",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 1002",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024A"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "03W2cvnDsaEhg9NecnJpOW",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 142",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000238"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "a2KQaYtJdE5kHCUD1VrKwZ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 120",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023X"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "bDWitqHUCGylJTbPIyihkF",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 104",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024L"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "cR6azvRidu3iYr3npEs3o6",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 164",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023W"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "79N0d0WGD6DhL3N5O1Xjqg",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 113",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000244"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "d5GTP49Dy4OcO80if7IikU",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 119",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000234"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "6cT0RCMnvdqkDf1gSoYx2d",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 114",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023P"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "lAZYhiIbzGBcD1tPeG6vcZ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 137",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000230"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "2sO1OHfIL2udXbuKqroB8C",
+    "objectName" : "Large_Project_Test",
+    "objectType" : "Project",
+    "path" : "/Explore",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "objectRefs" : [ ],
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "objectGuid" : "7v9hA1Zuk7MdtHLrqEG0gu",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 16",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024B"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "2Ve2K6ovcGqcGNOtCiuQmk",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 107",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023F"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "4BHKmzyuolEjDQGsbSuEyJ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 118",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022Z"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "1fcMTCw7qeebZ8tNdJNBMr",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 172",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000236"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "cdGie1k4s2gfHpHcwIVXg6",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 124",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023C"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "a29jyHRj9mFhzw2rQy5hUD",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 122",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000231"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "3mIKwBhdcsIkCnbFqWsZwo",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 13",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024O"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "16Opzop4ApnfXxuHp9dVUh",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 181",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000245"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "cCaWq1vk3KveYt5BoxM0Wq",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 144",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024I"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "1F8aMQ8NwuzcZFFoFU2M2b",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 175",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000233"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "eIYK5jAdqqafYND6MY6Rsw",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 140",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022W"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "lgG0J9ylpeWbBMOMZ1n1Ar",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 185",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024F"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "6lU4j83SU0YkDo6416mmOB",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 14",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000240"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "aLgSV6iWOFKfWe1meanu23",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 163",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023U"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "6xWbe1FQVQBlJq4VXvhH86",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 125",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023B"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0Ct34bWfLxdfHeLHeEEDOg",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 162",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024J"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0SFt2OAhEcWb8Hxy3wUEgM",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 169",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023J"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "kBWpLToTDIclgdIHmamn2R",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 149",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023E"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "4juy3qfdfhOev7uFMzlXM5",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 129",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023O"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0KequUwuyoHkvI3yoNWL8x",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 153",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023H"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0Y4RcN9LNO7e1V17pOW8uw",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 100",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023Z"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "fEKk3w3cJufbEfEZCeDSuO",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 110",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023N"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "dIcNQcwpQKujDbRKaMZge5",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 143",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000232"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "47OD3xLlO51gGR1kXsroU4",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 139",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023G"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "k3iinSLkvcTkjfhhLKKPeI",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 183",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024K"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "kETx5FIdt25gdJonzQNEAO",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 108",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023R"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "302Pdgwc9DQlrvcAlgQcg0",
+    "objectName" : "Mapping36_50uniongroups - Valid",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023I"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "lUHghn2gaKujEKyn0ln1KJ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 135",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022V"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "gyrSKZjHOe0dQPPOXccTOi",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 165",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024C"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "3GDOFjWugETbRx0Zadif44",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 121",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000249"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "8sKYnAfGdF2iMLjE2xxyq5",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 116",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023Y"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "bdsgbcy1HsmjOHMh3MS2eg",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 138",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000243"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "53X4CqynOqMbSzQVBQ10SS",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 15",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000248"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "5rlolJsWpwAjHIPNdwFsgz",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 141",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023K"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "lcM67UhvaEIbmnEClv3z8Q",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 178",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000023L"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "gftVIl2RoYIglUXWs7if6U",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 1000",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000024D"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "3fl7kqBpNS6bdePFq1cYWQ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 158",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022T"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "6kd0RXTiUUffdS9E03AtWJ",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 111",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT217000000000241"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  }, {
+    "objectGuid" : "0ro2ELGt76zfjZOR0NxX8L",
+    "objectName" : "Mapping36_50uniongroups - Valid - Copy 171",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Large_Project_Test",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010OT21700000000022S"
+      },
+      "objectRefs" : [ "6xK8mVhxWCAcMads8jCiUZ" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  } ]
+}
